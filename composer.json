@@ -33,7 +33,7 @@
     "minimum-stability": "stable",
     "prefer-stable": true,
     "config": {
-        "sort-package": true,
+        "sort-packages": true,
         "preferred-install": "dist",
         "allow-plugins": {
             "pestphp/pest-plugin": true
